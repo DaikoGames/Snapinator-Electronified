@@ -1,0 +1,16 @@
+{
+  "name": "snapinatormulti",
+  "version": "1.0.0",
+  "description": "this is a converter that converts Scratch 1, Scratch 2, and Scratch 3 Files to Snap! and it was ported to electron by Daiko Games to a Cross Platform Support (Windows, Linux and Mac)",
+  "license": "AGPL-3.0-only",
+  "author": "Daiko Games",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "devDependencies": {
+    "electron": "^37.2.4",
+    "electron-packager": "^17.1.2"
+  }
+}
